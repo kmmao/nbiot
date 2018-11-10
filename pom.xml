@@ -9,7 +9,7 @@
     <version>1.0.0</version>
     <modules>
         <module>nb-common</module>
-        <!--<module>nb-server</module>-->
+        <module>nb-server</module>
         <module>nb-manager</module>
         <module>nb-utils</module>
         <module>nb-web</module>
